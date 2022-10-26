@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christofer66&langs_count=8)](https://github.com/Christofer66)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christofer66&layout=compact)](https://github.com/Christofer66)
 
 ![Christofer66 GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofer66&show_icons=true&theme=radical)
 
