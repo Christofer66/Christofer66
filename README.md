@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christofer66&layout=compact)](https://github.com/Christofer66)
 
-![Christofer66 GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofer66&show_icons=true&theme=radical)
 
 <!--
 **Christofer66/Christofer66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
